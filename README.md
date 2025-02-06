@@ -1,2 +1,13 @@
-# Basic_Covid_ETL
-A basic pipeline to perform an ETL with covid confirmed cases dataset obtained from Kaggle
+# Basic COVID-19 ETL Pipeline
+Pipeline to extract, transform and load global data related to COVID-19 confirmed cases.
+
+## Tecnologies
+- Python + Pandas
+- SQLite
+- Cron (automation)
+
+## Data scheme
+Table `confirmed_cases`:
+- country (TEXT)
+- date (DATE)
+- cases (INTEGER)
