@@ -8,7 +8,7 @@ ETL pipeline to process and analise global data related to COVID-19 confirmed ca
 - **Metabase**: Data analysis and visualization.
 - **Cron (automation)**
 
-##ETL process
+## ETL process
 1. **Extraction**: Downloaded the dataset 'RAW_global_confirmed_cases.csv' from kaggle.
 2. **Transformation**: Use of pandas to clean the data and convert from "wide" to "long" format.
 3. **Load**: Stored the data in a SQLite database.
@@ -28,5 +28,5 @@ ORDER BY total_cases DESC;
 ```
 [![SQL Query](https://imgur.com/a/Dybxvly "SQL Query")](Query "SQL Query")
 
-#Visualization
+## Visualization
 [![Metabase dashboard](https://imgur.com/a/6UHRuGc "Metabase dashboard")](Dashboard "Metabase dashboard")
