@@ -26,7 +26,7 @@ FROM confirmed_cases
 GROUP BY country
 ORDER BY total_cases DESC;
 ```
-[![SQL Query](https://imgur.com/a/Dybxvly "SQL Query")](SQL Query "SQL Query")
+[![SQL Query](https://imgur.com/a/Dybxvly "SQL Query")](Query "SQL Query")
 
 #Visualization
 [![Metabase dashboard](https://imgur.com/a/6UHRuGc "Metabase dashboard")](Dashboard "Metabase dashboard")
