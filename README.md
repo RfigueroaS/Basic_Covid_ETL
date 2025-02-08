@@ -27,6 +27,7 @@ GROUP BY country
 ORDER BY total_cases DESC;
 ```
 [![SQL Query](https://imgur.com/a/Dybxvly "SQL Query")](Query "SQL Query")
+ ![](https://i.imgur.com/gdh45kp.png)
 
 ## Visualization
 [![Metabase dashboard](https://imgur.com/a/6UHRuGc "Metabase dashboard")](Dashboard "Metabase dashboard")
