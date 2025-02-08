@@ -11,3 +11,4 @@ Table `confirmed_cases`:
 - country (TEXT)
 - date (DATE)
 - cases (INTEGER)
+https://imgur.com/a/bWuB9gh
