@@ -28,4 +28,4 @@ ORDER BY total_cases DESC;
  ![SQL Query](https://i.imgur.com/gdh45kp.png "SQL Query")
 
 ## Visualization
-![Metabase dashboard](https://i.imgur.com/V04S1MN.png "Metabase dashboard")
+![Metabase dashboard](https://i.imgur.com/BmEhmJq.png "Metabase dashboard")
