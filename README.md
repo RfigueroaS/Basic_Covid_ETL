@@ -18,7 +18,7 @@ Table `confirmed_cases`:
 - date (DATE)
 - cases (INTEGER)
 
-## SQL Query example
+## SQL example Query
 ```sql
 SELECT country, MAX(cases) as total_cases
 FROM confirmed_cases
