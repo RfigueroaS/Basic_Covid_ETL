@@ -20,12 +20,12 @@ Table `confirmed_cases`:
 
 ## SQL example Query
 ```sql
-SELECT country, MAX(cases) as total_cases
+SELECT country, MAX(cases) as [Max number of cases]
 FROM confirmed_cases
 GROUP BY country
-ORDER BY total_cases DESC;
+ORDER BY [Max number of cases] DESC;
 ```
- ![SQL Query](https://i.imgur.com/gdh45kp.png "SQL Query")
+ ![SQL Query](https://i.imgur.com/ZoK3k6f.png "SQL Query")
 
 ## Visualization
 ![Metabase dashboard](https://i.imgur.com/BmEhmJq.png "Metabase dashboard")
